@@ -213,6 +213,8 @@ class QAssetSearchComposite extends QControl {
 	  $strToReturn[1] = "AssetId";
 	  // For Label generation
 	  $strToReturn[2] = "AssetCode";
+	  // Added by fer for Labels
+	  $strToReturn[3] = "AssetModel";
 	  return $strToReturn;
 	}
 
